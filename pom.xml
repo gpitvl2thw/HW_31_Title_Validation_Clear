@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>core</groupId>
-  <artifactId>HW_31_Clear_Title_Validation</artifactId>
+  <artifactId>HW_31_Title_Validation_Clear</artifactId>
   <version>${version}</version>
   <!-- <version>1.1</version> -->
   <packaging>jar</packaging>
 
-  <name>HW_31_Clear_Title_Validation</name>
+  <name>HW_31_Title_Validation_Clear</name>
   <url>http://maven.apache.org</url>
 
   <properties>
